@@ -1,0 +1,5 @@
+<view class="wakeup">
+	<view class="header">别做梦了,醒醒吧</view>
+	<view style="margin:25px;"><audio name="闹钟" author="zeromike" src="1.mp3" action="play" controls loop></audio></view>
+	<view style="margin-top:150px;">The End</view>
+</view>

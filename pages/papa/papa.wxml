@@ -1,0 +1,16 @@
+<view style="margin:10px;">
+	<modal class="modal" hidden="{{modalHidden}}" bindcancel="modalCancel" bindconfirm="modalChange">
+        <view>您确定要带美女去酒店啪啪啪?</view>
+    </modal>
+
+	<toast hidden="{{toast2No}}" duration="1500" bindchange="toastChangeNo">
+         送你印度神油一份
+    </toast>
+
+	<image src="{{image}}" style="height:320px;margin-left:10%;"></image>
+
+	<view style="margin:15%;">你真"幸"福啊!!!她归你了!!!</view>
+
+	<view class="viewmargin"><button type="warn" bindtap="nothanku">谢谢,我不是这样的人</button></view>
+	<view class="viewmargin"><button type="primary" bindtap="gohotel">酒店任意门</button></view>
+</view>

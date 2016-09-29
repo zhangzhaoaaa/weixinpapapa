@@ -1,0 +1,14 @@
+<view class="section section_gap swiper">
+		<swiper indicator-dots="{{indicatorDots}}" vertical="{{vertical}}" style="height:330px;"
+				autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}">
+			<block wx:for-items="{{imgUrls}}">
+				<swiper-item>
+					<image src="{{item}}"  style="height:320px;"/>
+				</swiper-item>
+			</block>
+		</swiper>
+
+		<view class="page-body-buttons">
+        	<button class="page-body-button" type="primary" bindtap="selectBeauty">随机美女啪啪啪</button>
+        </view>
+</view>

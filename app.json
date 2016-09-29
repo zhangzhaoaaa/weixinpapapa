@@ -1,0 +1,17 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/travellist/travellist",
+    "pages/placetarget/placetarget",
+    "pages/prize/prize",
+    "pages/papa/papa",
+    "pages/wakeup/wakeup"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "王小白旅行记",
+    "navigationBarTextStyle":"black"
+  }
+}

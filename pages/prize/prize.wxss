@@ -1,0 +1,8 @@
+.prize {
+	margin-top:5px;
+    margin-left:-5px;
+}
+
+image {
+	height: 280px;
+}

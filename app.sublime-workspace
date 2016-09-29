@@ -1,0 +1,225 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"font",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/zhangmike/Downloads/lib/cli.js",
+		"/Users/zhangmike/WebstormProjects/svn2git/test-public/trunk/gomeplusJS/dist/bp/buriedPoint.min.js",
+		"/Users/zhangmike/WebstormProjects/svn2git/test-public/trunk/gomeplusJS/src/bp/buriedPoint.js",
+		"/Users/zhangmike/softwares/tomcat8/webapps/dist/javascripts/test.js",
+		"/Users/zhangmike/softwares/tomcat8/webapps/dist/css/css.css",
+		"/Users/zhangmike/softwares/tomcat8/webapps/examples/index.html",
+		"/Users/zhangmike/softwares/tomcat8/conf/server.xml",
+		"/Users/zhangmike/Downloads/9781118026694_download/Ch09/CapabilitiesDetectionExample01.htm",
+		"/Users/zhangmike/gitcode/devtools-extension/panel.js",
+		"/Users/zhangmike/gitcode/devtools-extension/messaging.js",
+		"/Users/zhangmike/gitcode/devtools-extension/panel.html",
+		"/Users/zhangmike/gitcode/devtools-extension/devtools.js",
+		"/Users/zhangmike/gitcode/devtools-extension/devtools.html",
+		"/Users/zhangmike/gitcode/devtools-extension/background.js",
+		"/Users/zhangmike/gitcode/devtools-extension/manifest.json",
+		"/Users/zhangmike/Downloads/chrome-preprocessor/Panel/InspectedWindowLoadMonitor.js",
+		"/Users/zhangmike/Downloads/chrome-preprocessor/chrome-preprocessor.js",
+		"/Users/zhangmike/Downloads/chrome-preprocessor/Panel/PreprocessorPanel.html",
+		"/Users/zhangmike/Downloads/chrome-preprocessor/Panel/PreprocessorPanel.js",
+		"/Users/zhangmike/Downloads/chrome-preprocessor/manifest.json",
+		"/Users/zhangmike/Downloads/chrome-preprocessor/chrome-preprocessor.html",
+		"/Volumes/Sublime Text/a.html",
+		"/Users/zhangmike/gitcode/wheelfactory/src/pagelayout/responsivePage/media-queries.css",
+		"/Users/zhangmike/gitcode/wheelfactory/src/pagelayout/responsivePage/final.html",
+		"/Users/zhangmike/gitcode/wheelfactory/src/pagelayout/responsivePage/demo-step1.html",
+		"/Users/zhangmike/gitcode/wheelfactory/src/pagelayout/responsivePage/style.css",
+		"/Users/zhangmike/gitcode/wheelfactory/src/pagelayout/responsivePage/test.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"crawler",
+			"analysisStorer1",
+			"conf/SellerEnter/widget/localresizimg/lrz.bundle.js",
+			"m.gomeplus.com",
+			"group",
+			"getExt",
+			"elements",
+			"preload",
+			"<Context path=\"/\" docBase=\"/Users/zhangmike/JavaWorkSpace/gomeplus\" reloadable=\"false\" ></Context>  ",
+			"zepto-fx",
+			"$(",
+			"$",
+			"src"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
