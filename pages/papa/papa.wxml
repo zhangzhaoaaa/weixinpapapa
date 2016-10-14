@@ -4,12 +4,13 @@
     </modal>
 
 	<toast hidden="{{toast2No}}" duration="1500" bindchange="toastChangeNo">
-         送你印度神油一份
+         送一瓶印度神油
     </toast>
 
 	<image src="{{image}}" style="height:320px;margin-left:10%;"></image>
 
-	<view style="margin:15%;">你真"幸"福啊!!!她归你了!!!</view>
+	<view style="margin:10%;">哇塞!!!哇塞!!!</view>
+	<view style="margin:10%;">你真"幸"福啊!!!她归你了!!!</view>
 
 	<view class="viewmargin"><button type="warn" bindtap="nothanku">谢谢,我不是这样的人</button></view>
 	<view class="viewmargin"><button type="primary" bindtap="gohotel">酒店任意门</button></view>
